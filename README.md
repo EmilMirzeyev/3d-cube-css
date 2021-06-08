@@ -1,2 +1,2 @@
 # 3d-cube-css
-CSS 3d Cube
+Use arrows to rotate cube
